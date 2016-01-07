@@ -7,12 +7,12 @@ convert svg to png.
 1. run `$npm install`
 
 2. setup config.json
-```json
-{
-    "src": "./svg",
-    "dest": "./png"
-}
-```
+	```json
+	{
+	    "src": "./svg",
+	    "dest": "./png"
+	}
+	```
 
 3. run `$./export.sh` or `$./export.bat`
 	this will convert all svg files from `src` to `dest` folder that configed in config.json with png format.
