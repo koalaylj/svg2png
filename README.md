@@ -1,11 +1,12 @@
-xlsx2json
+svg2png
 =========
 
-convert svg files to png。
+convert svg to png.
 
 ### usage:
+1. run `$npm install`
 
-1. setup config.json
+2. setup config.json
 ```json
 {
     "src": "./svg",
@@ -13,7 +14,7 @@ convert svg files to png。
 }
 ```
 
-2. run `$./export.sh` or `$./export.bat`
+3. run `$./export.sh` or `$./export.bat`
 	this will convert all svg files from `src` to `dest` folder that configed in config.json with png format.
 
 ### notice
