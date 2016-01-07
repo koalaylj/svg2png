@@ -1,0 +1,30 @@
+{
+  "main": "index.js",
+  "name": "svg2png",
+  "version": "1.0.0",
+  "description": "convert svg to png",
+  "homepage": "https://github.com/koalaylj/svg2png",
+  "author": "于小懒",
+  "licenses": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koalaylj/svg2png.git"
+  },
+  "keywords": [
+    "svg",
+    "png",
+    "convert",
+    "formate",
+    "image"
+  ],
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "engines": {
+    "node": "~0.10.25"
+  },
+  "dependencies": {
+    "svg-to-png": "^2.0.1"
+  },
+  "devDependencies": {}
+}
