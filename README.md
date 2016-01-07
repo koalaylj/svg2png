@@ -18,4 +18,4 @@ convert svg to png.
 	this will convert all svg files from `src` to `dest` folder that configed in config.json with png format.
 
 ### notice
-for now, it's only support convert to png format.
+for now, it's only support for converting svg to png format.
